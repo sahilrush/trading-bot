@@ -13,7 +13,11 @@
   "type": "commonjs",
   "description": "",
   "dependencies": {
+    "@raydium-io/raydium-sdk-v2": "0.1.106-alpha",
+    "@solana/spl-token": "^0.4.9",
+    "@solana/web3.js": "^1.98.0",
     "axios": "^1.7.9",
+    "bs58": "^6.0.0",
     "openai": "^4.80.1"
   },
   "devDependencies": {
